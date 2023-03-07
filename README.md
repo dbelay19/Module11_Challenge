@@ -1,14 +1,14 @@
 # Module 11 Challenge about web scrapping usig Id and calss
 The gaol of this challneg was to help us apply what learned about extracting information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. The module has two parts.
 Part 1: Scrape Titles and Preview Text from Mars News:
-In this part of exceice, after setting import commands and read the url,  I have extracted titles and preview text of the news articles that that I have scraped. see example below:
+*In this part of exceice, after setting import commands and read the url,  I have extracted titles and preview text of the news articles that that I have scraped. see example below:
 
 ![image](https://user-images.githubusercontent.com/117956888/223523053-323d8d1f-df41-46e7-a5d5-f07a37fdf30a.png)
 ![image](https://user-images.githubusercontent.com/117956888/223523208-ac7d63ce-b954-4350-8951-1900bef8e206.png)
 ![image](https://user-images.githubusercontent.com/117956888/223524293-805ecc6c-473f-49ae-8435-3ee042f380c4.png)
 
 
-Also exporetd the scraped data into a json file.
+*Also exporetd the scraped data into a json file.
 ![image](https://user-images.githubusercontent.com/117956888/223523457-67cf2983-67d6-41dc-a679-087fc76fe38b.png)
 
 Part 2: Scrape and Analyze Mars Weather Data: in this part of the challenge, I have created Create a Beautiful Soup object and used it to scrape the data in the HTML table. I have extracted information, put the data into a dataframe and show in graphs.
